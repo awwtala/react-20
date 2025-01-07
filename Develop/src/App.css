@@ -1,0 +1,27 @@
+.myimage {
+  width: 100px;
+}
+
+.project-image {
+  width: 400px;
+  height: 200px;
+  border: 2px solid black;
+  background-size: 400px 200px;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-image:hover {
+  background-image: none !important;
+  background-color: black;
+  transition: all ease-in 1s;
+  /* filter: blur(2px);
+  transition: all ease-in 1s; */
+}
+
+.link {
+  color: rgb(106, 172, 76);
+}
