@@ -3,7 +3,8 @@ export default function Contact() {
     <div>
       <h1>Contact Page</h1>
       <form>
-        <input></input>
+        <input>
+        </input>
       </form>
     </div>
   );

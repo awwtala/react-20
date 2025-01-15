@@ -1,10 +1,17 @@
+* {
+  /* background-color: #f5e9e9; */
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
 .myimage {
-  width: 100px;
+  border-radius: 100px;
+  height: 180px;
+  width: 180px;
 }
 
 .project-image {
-  width: 400px;
-  height: 200px;
+  width: 390px;
+  height: 190px;
   border: 2px solid black;
   background-size: 400px 200px;
   background-repeat: no-repeat;
@@ -23,5 +30,19 @@
 }
 
 .link {
-  color: rgb(106, 172, 76);
+  color: rgb(10, 10, 10);
+}
+
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 3em;
+  text-align: center;
+  font-size: 0.8em;
+  color: #f7efef;
+  background-color: #89a59b;
+  border-top: 7px solid #1a2930;
+  font-size: 1em;
 }

@@ -3,7 +3,7 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <img className="myimage" src="./avator.JPG"></img>
-      <p>About me here</p>
+      <p>Welcome to my page! My name is Tala Awwad.</p>
     </div>
   );
 }
