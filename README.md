@@ -17,7 +17,7 @@ Clone SSH into computer. \
 Install the following into terminal:
 
 - npm i
--
+- 
 
 ## Usage
 
@@ -25,7 +25,6 @@ Step 1: open terminal to the correct folder.\
 Step 2: Type npm i to form your package.json. \
 Step 3: Tpe npm start. \
 Step 5: You will be presented with http://localhost:3001 \
-Step 6: Copy That link into your Insomnia app.
 
 ## Questions
 
