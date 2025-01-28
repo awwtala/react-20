@@ -1,7 +1,13 @@
 * {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family:'Times New Roman', Times, serif;
 }
+.full-page {
+  height: 100vh !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .myimage {
   border-radius: 100px;
   height: 150px;
@@ -40,7 +46,7 @@
 }
 
 .footer {
-  position: absolute;
+  /* position: absolute; */
   left: 0;
   bottom: 0;
   width: 100%;
