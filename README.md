@@ -19,9 +19,9 @@ Clone SSH into computer. \
 Install the following into terminal:
 
 - npm i
-- bootstrap: 5.2.3 \
-- react: 18.2.0 \
-- react-dom: 18.2.0 \
+- bootstrap: 5.2.3 
+- react: 18.2.0 
+- react-dom: 18.2.0 
 
 ## Usage
 
@@ -40,5 +40,5 @@ No automated tests were conducted for this project.
 
 ## Contributing
 
-Xpert learning assistant.
+Xpert learning assistant.\
 Tutor assistant: Joem C.
