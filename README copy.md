@@ -1,4 +1,5 @@
 # 20 React: React Portfolio
+React 20 is a a web developer project used to create a portfolio
 
 ## Your Task
 

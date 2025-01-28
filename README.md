@@ -1,7 +1,8 @@
 # React-20
 
 ## Description
-R
+
+React-20 is a a web developer project used to create a personal portfolio With React. This personal portfolio will present an about me, contact, portfolio, and resume. This will be a great presention of an indiviuals personal work to an employer.
 
 ## Table of Contents
 

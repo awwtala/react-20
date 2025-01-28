@@ -9,7 +9,7 @@ export default function Footer() {
       <a href="https://github.com/awwtala">
         <i class="fa-brands fa-linkedin icons"></i>
       </a>
-      <p>&copy; Copyright 2025 Tala</p>
+      <p>&copy; 2025 Tala Awwad. All rights reserved.</p>
     </div>
   );
 }
