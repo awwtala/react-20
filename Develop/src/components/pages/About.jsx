@@ -14,19 +14,18 @@ export default function About() {
           </div>
           <div class="md:7/12 lg:w-6/12">
             <h2 class="text-3xl text-gray-900 font-bold md:text-4xl">
-              Welcome to my portfolio
+              About Me
             </h2>
             <p class="mt-6 text-gray-600">
-            My name is Tala Awwad.
+              My name is Tala and I am a certified full-stack web developer from
+              University of California, Berkeley. I have also earned my
+              bachelor's in Psychology from Cal State Unvierity, Fullerton. I
+              love to learn and to continue learning.
             </p>
-            <p class="mt-4 text-gray-600">
-              {" "}
-              Write here
-            </p>
+            <p class="mt-4 text-gray-600"> </p>
           </div>
         </div>
       </div>
     </div>
-
   );
 }
